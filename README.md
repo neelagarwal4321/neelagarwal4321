@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Neel Agarwal</h1>
+<h1 align="center">Hi👋, I'm Neel Agarwal</h1>
 <h3 align="center">A passionate AI,ML and Backend Dev Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=neelagarwal4321&label=Profile%20views&color=0e75b6&style=flat" alt="neelagarwal4321" /> </p>
