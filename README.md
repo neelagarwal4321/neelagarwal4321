@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=neelagarwal4321&label=Profile%20views&color=0e75b6&style=flat" alt="neelagarwal4321" /> </p>
 
-- 🌱 I’m currently learning **NodeJS, ExpressJS, Google ADK, LangChain and LangGraph.**
+- 🌱 I’m currently learning **NodeJS, ExpressJS, Google ADK, LangChain and LangGraph, SQL/DB design and System Design.**
 
 - 📫 How to reach me **neel.agarwal304@gmail.com**
 
